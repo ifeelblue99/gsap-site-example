@@ -74,6 +74,7 @@ section{
     background-color: thistle;
 }
 #sq-2{
+    z-index: 3;
     height: 250px;
     width: 150px;
     background-color: rgb(72, 214, 214);
@@ -84,7 +85,3 @@ section{
 }
 
 /*************** toggle classes ************************/
-.circle{
-    border-radius: 70px;
-    transition: all 1s linear;
-}
